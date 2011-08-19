@@ -1,0 +1,11 @@
+2011-08-19
+
+Trying out git and github. 
+Had problems with SSH. Didn't work until I made a dsa key instead of an rsa.
+
+Anyway. 
+My plan is to make a conflict solving application or library.
+The main purpose is for use in computer games as a combat engine.
+I imagine it will be based on issuing commands into a conflict resolving process that takes each command and executes them. Key in this will of course be the commands. A command will usually be executed against another entity, for example entity1 wants to issue a "punch in the face"-command on entity2. The conflict resolving process would then check if the command is possible, and what probability it has of being successful and probably calculate some outcome depending on chance and other properties.
+It is all quite fuzzy for the time being but hopefully it will emerge into something useful.
+
